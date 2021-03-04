@@ -21,4 +21,4 @@ Engine\Binaries\Win64\UE4Game-Win64-Shipping.exe,0,46233600
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe,0,40025648
 ShootFighter\Content\Movies\CreditUE4 Conv.mp4,0,1962548
 ShootFighter\Content\Movies\New Intro-1.mp4,0,73435
-ShootFighter\Content\Paks\ShootFighter-WindowsNoEditor.pak,https://onedrive.live.com/embed?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464519&authkey=ACGTmBWOXDYPbS8,1735187548
+ShootFighter\Content\Paks\ShootFighter-WindowsNoEditor.pak,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464519&authkey=ACGTmBWOXDYPbS8,1735187548
